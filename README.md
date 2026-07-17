@@ -78,10 +78,7 @@ I am a passionate **AI Engineer** and **Full Stack Developer** dedicated to brid
 ## 📈 GitHub Statistics
 
 <div align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Theani7&theme=transparent&hide_border=true&show_icons=true&title_color=2563EB&icon_color=2563EB&text_color=777777" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Theani7&theme=transparent&hide_border=true&title_color=2563EB&icon_color=2563EB&text_color=777777" alt="GitHub Streak" width="48%" />
-  <br/>
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Theani7&layout=compact&theme=transparent&hide_border=true&title_color=2563EB&text_color=777777" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Theani7&theme=transparent&hide_border=true&title_color=2563EB&icon_color=2563EB&text_color=777777" alt="GitHub Streak" />
 </div>
 
 <!-- Trophies section temporarily removed because the public API is down -->
