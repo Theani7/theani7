@@ -10,9 +10,9 @@
   <p>Building intelligent systems and robust, scalable applications.</p>
 
   <p align="center">
-    <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-    <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-    <a href="https://yourportfolio.com"><img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=Web&logoColor=white" alt="Portfolio" /></a>
+    <a href="mailto:theanilpaneru@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+    <a href="https://www.linkedin.com/in/theanilpaneru/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+    <a href="https://www.anilpaneru.com.np/"><img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=Web&logoColor=white" alt="Portfolio" /></a>
     <a href="https://github.com/Theani7"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
   </p>
 </div>
@@ -73,26 +73,7 @@ I am a passionate **AI Engineer** and **Full Stack Developer** dedicated to brid
 
 <br/>
 
-## 💻 Featured Projects
 
-<table width="100%" style="border-collapse: collapse;">
-  <tr>
-    <td width="50%" valign="top" style="border: none;">
-      <h3><b>🧠 AI-Powered Automation Platform</b></h3>
-      <p>An intelligent SaaS platform that automates complex data processing pipelines using state-of-the-art LLMs.</p>
-      <p><code>Python</code> <code>FastAPI</code> <code>React</code> <code>PostgreSQL</code></p>
-      <a href="https://github.com/Theani7/ai-automation">Repository</a> &nbsp;|&nbsp; <a href="https://demo.example.com">Live Demo</a>
-    </td>
-    <td width="50%" valign="top" style="border: none;">
-      <h3><b>📊 Machine Learning Dashboard</b></h3>
-      <p>A full-stack dashboard for visualizing real-time metrics and analytics from deep learning models.</p>
-      <p><code>Next.js</code> <code>TypeScript</code> <code>Prisma</code> <code>Docker</code></p>
-      <a href="https://github.com/Theani7/ml-dashboard">Repository</a> &nbsp;|&nbsp; <a href="https://demo.example.com">Live Demo</a>
-    </td>
-  </tr>
-</table>
-
-<br/>
 
 ## 📈 GitHub Statistics
 
@@ -110,4 +91,10 @@ I am a passionate **AI Engineer** and **Full Stack Developer** dedicated to brid
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Theani7&label=Profile%20Views&color=2563EB&style=flat" alt="Visitor Count" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=120&section=footer" width="100%" alt="Footer Animation" />
 </div>
