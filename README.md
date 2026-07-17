@@ -89,24 +89,17 @@ I am a passionate **AI Engineer** and **Full Stack Developer** dedicated to brid
 ## 📈 GitHub Statistics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Theani7&theme=transparent&hide_border=true&show_icons=true&title_color=2563EB&icon_color=2563EB&text_color=777777" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Theani7&theme=transparent&hide_border=true&show_icons=true&title_color=2563EB&icon_color=2563EB&text_color=777777" alt="GitHub Stats" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Theani7&theme=transparent&hide_border=true&title_color=2563EB&icon_color=2563EB&text_color=777777" alt="GitHub Streak" width="48%" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Theani7&layout=compact&theme=transparent&hide_border=true&title_color=2563EB&text_color=777777" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Theani7&layout=compact&theme=transparent&hide_border=true&title_color=2563EB&text_color=777777" alt="Top Languages" width="48%" />
 </div>
 
-<br/>
-
-## 🏆 Achievements
-
-<div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Theani7&theme=discord&no-frame=true&no-bg=true&margin-w=15" alt="GitHub Trophies" />
-  </a>
-</div>
+<!-- Trophies section temporarily removed because the public API is down -->
+<!-- You can self-host it and add it back later: https://github.com/ryo-ma/github-profile-trophy -->
 
 <br/>
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/Theani7/count.svg" alt="Visitor Count" />
+  <img src="https://komarev.com/ghpvc/?username=Theani7&label=Profile%20Views&color=2563EB&style=flat" alt="Visitor Count" />
 </div>
