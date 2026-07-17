@@ -32,44 +32,46 @@ I am a passionate **AI Engineer** and **Full Stack Developer** dedicated to brid
 ## 🛠️ Tech Stack
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
-  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />&nbsp;
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />&nbsp;
+  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face" />&nbsp;
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <br/>
-  <br/>
-  <img src="https://img.shields.io/badge/Langchain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="Langchain" />
-  <img src="https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI API" />
+  <br/><br/>
+  <img src="https://img.shields.io/badge/Langchain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="Langchain" />&nbsp;
+  <img src="https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI API" />&nbsp;
   <img src="https://img.shields.io/badge/Anthropic_API-cc9b7a?style=for-the-badge&logo=anthropic&logoColor=black" alt="Anthropic API" />
+  <br/><br/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />&nbsp;
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 </div>
 
 <br/>
 
 ## 🎯 Current Focus
 
-<table width="100%" style="border-collapse: collapse;">
-  <tr>
-    <td width="50%" valign="top" style="border: none;">
-      <h3>🚀 Currently Building</h3>
-      <ul>
-        <li>AI Applications</li>
-        <li>Intelligent Automation</li>
-        <li>Full Stack SaaS</li>
-      </ul>
-    </td>
-    <td width="50%" valign="top" style="border: none;">
-      <h3>📚 Learning</h3>
-      <ul>
-        <li>Transformers</li>
-        <li>LLM Fine-tuning</li>
-        <li>AI Agents</li>
-        <li>RAG Systems</li>
-      </ul>
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <table width="100%">
+    <tr>
+      <td width="50%" align="center">
+        <h3>🚀 Currently Building</h3>
+        <p>
+          🤖 <b>AI Applications</b><br>
+          ⚡ <b>Intelligent Automation</b><br>
+          🌐 <b>Full Stack SaaS</b>
+        </p>
+      </td>
+      <td width="50%" align="center">
+        <h3>📚 Learning</h3>
+        <p>
+          🧠 <b>Transformers</b><br>
+          🔧 <b>LLM Fine-tuning</b><br>
+          🕵️‍♂️ <b>AI Agents</b><br>
+          📖 <b>RAG Systems</b>
+        </p>
+      </td>
+    </tr>
+  </table>
+</div>
 
 <br/>
 
