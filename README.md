@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:A855F7&height=210&section=header&text=Anil+Paneru&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI+Engineer+•+Building+with+LLMs,+Agents+%26+RAG&descAlignY=62&descAlign=50" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:A855F7&height=210&section=header&text=Anil+Paneru&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI+Engineer+-+Building+with+LLMs,+Agents,+RAG&descAlignY=62&descAlign=50" width="100%"/>
 
   <a href="https://github.com/Theani7">
     <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=6366F1&center=true&vCenter=true&width=620&lines=Hi+👋,+I'm+@theani7;AI+Engineer+from+Kathmandu+🇳🇵;I+build+Agents,+RAG+pipelines+%26+LLM+apps;Open+to+work+🌍+•+Let's+connect!" alt="Typing SVG" />
