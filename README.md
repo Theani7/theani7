@@ -1,120 +1,168 @@
 <div align="center">
 
-  <!-- PLAYFUL HEADER -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B9D,100:A855F7&height=200&section=header&text=Hi+there,+I'm+Anil+👋&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI+Engineer+•+LLMs+•+Agents+•+RAG&descAlignY=60&descAlign=50" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=170&section=header&text=theani7@ai:~_%24&fontColor=00ff41&fontSize=54&fontAlignY=45&desc=[AI_Engineer]_—_LLMs_•_Agents_•_RAG&descAlignY=75&descAlign=50&animation=fadeIn" width="100%"/>
 
   <a href="https://github.com/Theani7">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A855F7&center=true&vCenter=true&width=650&lines=Welcome+to+my+playground+✨;I+build+smart+AI+agents+🤖;Python+•+LangChain+•+RAG+•+LLMs;Let's+build+something+awesome+together+🚀" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=21&pause=1000&color=00FF41&background=0D1117&center=true&vCenter=true&width=680&lines=$+whoami+→+theani7;$+cat+role.txt+→+AI+Engineer;$+ls+stack/+→+python+langchain+rag+agents;$+./run.sh+--build-future" alt="terminal typing" />
   </a>
 
   <p>
-    <img src="https://komarev.com/ghpvc/?username=Theani7&label=PROFILE+VIEWS&color=blueviolet&style=flat-square" alt="views" />
-    <img src="https://img.shields.io/github/followers/Theani7?label=FOLLOWERS&style=flat-square&color=ff69b4&labelColor=ff69b4&logo=github&logoColor=white" alt="followers" />
-    <img src="https://img.shields.io/badge/OPEN_TO_WORK-yes-brightgreen?style=flat-square&logo=selfoss&logoColor=white" alt="open to work" />
-    <img src="https://img.shields.io/badge/Kathmandu-Nepal-blueviolet?style=flat-square&logo=googlemaps&logoColor=white" alt="location" />
+    <img src="https://img.shields.io/badge/root@theani7:~$-OPEN_TO_WORK-0d1117?style=flat-square&logo=gnubash&logoColor=00ff41&labelColor=0d1117&color=0d1117" />
+    <img src="https://img.shields.io/badge/loc-Kathmandu_NP-0d1117?style=flat-square&logo=googlemaps&logoColor=00ff41&labelColor=0d1117&color=0d1117" />
+    <img src="https://komarev.com/ghpvc/?username=Theani7&label=VIEWS&color=0d1117&style=flat-square" alt="views" />
   </p>
 
 </div>
 
----
-
-### ✨ About Me
-
-<img align="right" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="320" alt="coding gif" />
-
-- 🔭 I'm **Anil Paneru (@theani7)** — an **AI Engineer** who turns prompts into products
-- 🤖 I love building **LLM apps, RAG pipelines & autonomous agents**
-- 🌱 Currently exploring **agentic workflows, evals, fine-tuning & multimodal LLMs**
-- 👯 I'm looking to collaborate on **cool AI open-source projects**
-- 📫 Reach me at **theanilpaneru@gmail.com**
-- 🌐 Portfolio: **[anilpaneru.com.np](https://anilpaneru.com.np)**
-- 📍 Based in **Kathmandu, Nepal** — open to remote work worldwide
-- ⚡ Fun fact: my models hallucinate less than I do before coffee ☕
-
-<br clear="right"/>
+```console
+theani7@ai:~$ sudo boot profile --full-terminal
+[ OK ] kernel loaded .............. v6.9-ai
+[ OK ] mounting /dev/llms ......... done
+[ OK ] starting agentd ............ done
+[ OK ] connecting portfolio ....... anilpaneru.com.np
+[ OK ] status ..................... OPEN_TO_WORK
+theani7@ai:~$ _
+```
 
 ---
 
-### 🛠️ My Toolbox
+### `theani7@ai:~$ whoami`
+
+```bash
+$ whoami --verbose
+> name: Anil Paneru
+> alias: theani7
+> role: AI Engineer
+> location: Kathmandu, Nepal [open :: remote_worldwide]
+> portfolio: https://anilpaneru.com.np
+> email: theanilpaneru@gmail.com
+> mission: turn prompts + papers into production systems
+```
+
+---
+
+### `theani7@ai:~$ cat ./about.json`
+
+```json
+{
+  "code": ["Python", "SQL"],
+  "ai_stack": ["LangChain", "LlamaIndex", "OpenAI", "HuggingFace", "RAG", "Agents", "Vector_DBs"],
+  "backend": ["FastAPI", "PostgreSQL", "Redis", "Docker"],
+  "ops": ["Git", "Linux", "Jupyter", "VS_Code"],
+  "currently_building": "autonomous agents + production-grade RAG pipelines",
+  "currently_learning": ["agentic workflows", "evals", "fine-tuning", "multimodal LLMs"],
+  "hireable": true,
+  "coffee": "required_for_inference"
+}
+```
+
+---
+
+### `theani7@ai:~$ ls -la ./stack/`
 
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=python,fastapi,pytorch,tensorflow,docker,git,linux,vscode,github,postgres,redis,openai&perline=6)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,fastapi,pytorch,tensorflow,docker,git,linux,vscode,github,postgres,redis&theme=dark)](https://skillicons.dev)
 
 <p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
-  <img src="https://img.shields.io/badge/LlamaIndex-0E8388?style=for-the-badge&logo=databricks&logoColor=white" />
-  <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postgres-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/python-0d1117?style=for-the-badge&logo=python&logoColor=00ff41" />
+  <img src="https://img.shields.io/badge/langchain-0d1117?style=for-the-badge&logo=langchain&logoColor=00ff41" />
+  <img src="https://img.shields.io/badge/llamaindex-0d1117?style=for-the-badge&logo=llamaindex&logoColor=00ff41" />
+  <img src="https://img.shields.io/badge/huggingface-0d1117?style=for-the-badge&logo=huggingface&logoColor=00ff41" />
+  <img src="https://img.shields.io/badge/openai-0d1117?style=for-the-badge&logo=openai&logoColor=00ff41" />
+  <img src="https://img.shields.io/badge/fastapi-0d1117?style=for-the-badge&logo=fastapi&logoColor=00ff41" />
+  <img src="https://img.shields.io/badge/docker-0d1117?style=for-the-badge&logo=docker&logoColor=00ff41" />
+  <img src="https://img.shields.io/badge/postgres-0d1117?style=for-the-badge&logo=postgresql&logoColor=00ff41" />
+  <img src="https://img.shields.io/badge/git-0d1117?style=for-the-badge&logo=git&logoColor=00ff41" />
 </p>
+
+```bash
+total 9
+drwxr-xr-x  ai  agents  rag  llms  apis  vector_dbs
+$ echo $PATH
+> /usr/local/bin:/python:/langchain:/production
+```
 
 </div>
 
 ---
 
-### 🚀 What I Build
+### `theani7@ai:~$ ./run builds --list`
 
-| ✨ | Project type | What it does |
+| pid | process | desc |
 |---|---|---|
-| 🤖 | **AI Agents** | Autonomous LangChain agents with tools that get stuff done |
-| 🧠 | **RAG Pipelines** | Ingest → chunk → embed → retrieve → generate, evaluated & prod-ready |
-| ⚡ | **LLM Apps** | Chatbots, copilots & internal tools with OpenAI + open-source LLMs |
-| 🔧 | **MLOps Lite** | FastAPI + Docker + Vector DBs (Pinecone / Chroma / pgvector) |
+| 001 | `agents/` | autonomous LangChain tool-calling agents that do real work |
+| 002 | `rag/` | ingest → chunk → embed → retrieve → generate, evaluated |
+| 003 | `llm_apps/` | chatbots, copilots, internal tools (OpenAI + OSS LLMs) |
+| 004 | `infra/` | FastAPI + Docker + pgvector / Chroma / Pinecone |
+
+```bash
+$ ./deploy --prod
+> [+] Build successful in 1.2s
+> [!] root access granted: shipping intelligent systems
+```
 
 ---
 
-### 📊 My GitHub Adventure
+### `theani7@ai:~$ htop ./github --stats`
 
 <div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=Theani7&show_icons=true&theme=radical&hide_border=true&count_private=true" width="49%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Theani7&theme=radical&hide_border=true" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Theani7&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&text_color=c9d1d9&count_private=true" width="49%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Theani7&theme=tokyonight&hide_border=true&background=0D1117&ring=00FF41&fire=00FF41&currStreakLabel=00FF41" width="49%" />
 
   <br/>
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Theani7&layout=compact&theme=radical&hide_border=true" width="40%" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Theani7&theme=github-compact&bg_color=ffffff&color=A855F7&line=EC4899&point=8B5CF6&hide_border=true" width="58%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Theani7&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=c9d1d9" width="42%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Theani7&theme=github-compact&bg_color=0d1117&color=00ff41&line=00ff41&point=ffffff&hide_border=true" width="56%" />
 
   <br/>
 
-  <img src="https://github-profile-trophy.vercel.app/?username=Theani7&theme=dracula&no-frame=true&margin-w=4&row=1&column=6" width="100%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Theani7&theme=tokyonight&no-frame=true&no-bg=false&bg_color=0D1117&margin-w=4&row=1&column=6" width="100%" />
+
+```bash
+$ uptime --contribs
+> load average: commits commits commits
+```
 
 </div>
 
 ---
 
-### 🐍 Watch My Snake Eat Contributions
+### `theani7@ai:~$ ./snake --play`
 
 <div align="center">
 
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Theani7/Theani7/output/github-contribution-grid-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Theani7/Theani7/output/github-contribution-grid-snake.svg" />
-    <img src="https://raw.githubusercontent.com/Theani7/Theani7/output/github-contribution-grid-snake.svg" width="100%" alt="snake eating contributions" />
+    <img src="https://raw.githubusercontent.com/Theani7/Theani7/output/github-contribution-grid-snake-dark.svg" width="100%" alt="snake" />
   </picture>
 
-  Nom nom nom... my snake loves green squares! 🟩🐍
+```bash
+$ ./snake --status
+> score: 1337 | eating all your green squares...
+```
 
 </div>
 
 ---
 
-### 💌 Let's Connect!
+### `theani7@ai:~$ ssh connect@theani7`
 
 <div align="center">
 
-  <a href="https://github.com/Theani7"><img src="https://img.shields.io/badge/GitHub-Theani7-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/theanilpaneru/"><img src="https://img.shields.io/badge/LinkedIn-Anil_Paneru-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://anilpaneru.com.np"><img src="https://img.shields.io/badge/Portfolio-anilpaneru.com.np-FF6B9D?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
-  <a href="mailto:theanilpaneru@gmail.com"><img src="https://img.shields.io/badge/Gmail-theanilpaneru-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://github.com/Theani7"><img src="https://img.shields.io/badge/$ssh-github-0d1117?style=for-the-badge&logo=github&logoColor=00ff41" /></a>
+  <a href="https://www.linkedin.com/in/theanilpaneru/"><img src="https://img.shields.io/badge/$ssh-linkedin-0d1117?style=for-the-badge&logo=linkedin&logoColor=00ff41" /></a>
+  <a href="https://anilpaneru.com.np"><img src="https://img.shields.io/badge/$curl-portfolio-0d1117?style=for-the-badge&logo=googlechrome&logoColor=00ff41" /></a>
+  <a href="mailto:theanilpaneru@gmail.com"><img src="https://img.shields.io/badge/$mail-contact-0d1117?style=for-the-badge&logo=gmail&logoColor=00ff41" /></a>
 
-  <br/><br/>
-  <b>💬 Got a cool AI idea? Let's chat — my inbox is always open!</b>
+```bash
+$ echo "let's build something intelligent" | mail theanilpaneru@gmail.com
+> message queued... response time: <24h
+$ ping anilpaneru.com.np -c 1
+> 64 bytes from Kathmandu: time=awesome
+```
 
 </div>
 
@@ -122,10 +170,15 @@
 
 <div align="center">
 
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=First,+solve+the+problem.+Then,+write+the+code.&author=John+Johnson" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Talk+is+cheap.+Show+me+the+code.&author=Linus+Torvalds" />
 
   <br/>
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:A855F7,100:FF6B9D&height=120&section=footer&text=Thanks+for+visiting!+✨&fontSize=24&fontColor=ffffff&animation=fadeIn" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=110&section=footer&text=theani7@ai:~$+logout&fontColor=00ff41&fontSize=22&animation=fadeIn" width="100%"/>
+
+  ```console
+  theani7@ai:~$ exit
+  logout... see you in the next commit_
+  ```
 
 </div>
