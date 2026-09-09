@@ -14,15 +14,9 @@
 
 </div>
 
-```console
-theani7@ai:~$ sudo boot profile --full-terminal
-[ OK ] kernel loaded .............. v6.9-ai
-[ OK ] mounting /dev/llms ......... done
-[ OK ] starting agentd ............ done
-[ OK ] connecting portfolio ....... anilpaneru.com.np
-[ OK ] status ..................... OPEN_TO_WORK
-theani7@ai:~$ _
-```
+<div align="center">
+  <img src="./assets/terminal-loading.svg" width="100%" alt="animated terminal loading" />
+</div>
 
 ---
 
