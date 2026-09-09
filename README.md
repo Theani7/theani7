@@ -65,17 +65,16 @@
 
 <div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=Theani7&show_icons=true&theme=dracula&hide_border=true&count_private=true" width="49%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Theani7&theme=dracula&hide_border=true" width="49%" />
+  <!-- streak-stats.demolab.com = maintained fork of the dead heroku streak app -->
+  <img src="https://streak-stats.demolab.com?user=Theani7&theme=dracula&hide_border=true" width="60%" alt="streak" />
 
   <br/>
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Theani7&layout=compact&theme=dracula&hide_border=true" width="38%" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Theani7&theme=dracula&bg_color=282A36&color=A855F7&line=6366F1&point=EC4899&hide_border=true" width="60%" />
+  <img src="https://img.shields.io/github/followers/Theani7?style=for-the-badge&logo=github&label=Followers&color=6366F1" />
+  <img src="https://img.shields.io/github/stars/Theani7?style=for-the-badge&logo=github&label=Total%20Stars&color=A855F7" />
+  <img src="https://img.shields.io/github/commit-activity/m/Theani7/Theani7?style=for-the-badge&logo=github&label=Activity&color=EC4899" />
 
-  <br/>
-
-  <img src="https://github-profile-trophy.vercel.app/?username=Theani7&theme=dracula&no-frame=true&margin-w=4&row=1&column=6" width="100%" />
+  <p><i>Live stats cards removed — github-readme-stats / activity-graph / trophy APIs are currently returning 503/402. Your native GitHub contribution graph + snake below always work.</i></p>
 
 </div>
 
