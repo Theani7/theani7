@@ -74,8 +74,6 @@
   <img src="https://img.shields.io/github/stars/Theani7?style=for-the-badge&logo=github&label=Total%20Stars&color=A855F7" />
   <img src="https://img.shields.io/github/commit-activity/m/Theani7/Theani7?style=for-the-badge&logo=github&label=Activity&color=EC4899" />
 
-  <p><i>Live stats cards removed — github-readme-stats / activity-graph / trophy APIs are currently returning 503/402. Your native GitHub contribution graph + snake below always work.</i></p>
-
 </div>
 
 ---
