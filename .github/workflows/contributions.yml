@@ -1,4 +1,4 @@
-name: Generate contribution snake
+name: Generate contribution graph
 
 on:
   schedule:
@@ -18,13 +18,13 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
 
-      - name: Generate snake SVGs
-        uses: Platane/snk/svg-only@v3
+      - name: Setup Python
+        uses: actions/setup-python@v5
         with:
-          github_user_name: Theani7
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=#00ff41&color_dots=#0d1117,#161b22,#0e4429,#006d32,#26a641,#39d353
+          python-version: "3.11"
+
+      - name: Generate contribution grid SVGs
+        run: python3 scripts/generate_contributions_svg.py --username Theani7
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
@@ -33,6 +33,6 @@ jobs:
         with:
           target_branch: output
           build_dir: dist
-          commit_message: "chore: update contribution snake"
+          commit_message: "chore: update contribution graph with numbers"
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

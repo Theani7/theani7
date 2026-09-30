@@ -78,14 +78,14 @@
 
 ---
 
-## 🐍 Contributions
+## 📊 Contributions
 
 <div align="center">
 
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Theani7/Theani7/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Theani7/Theani7/output/github-contribution-grid-snake.svg" />
-    <img src="https://raw.githubusercontent.com/Theani7/Theani7/output/github-contribution-grid-snake.svg" width="100%" alt="snake" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Theani7/Theani7/output/github-contribution-grid-numbers-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Theani7/Theani7/output/github-contribution-grid-numbers-light.svg" />
+    <img src="https://raw.githubusercontent.com/Theani7/Theani7/output/github-contribution-grid-numbers.svg" width="100%" alt="contributions" />
   </picture>
 
 </div>
