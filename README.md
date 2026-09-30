@@ -23,41 +23,9 @@
 - 🤖 Specialized in **LangChain, RAG, AI Agents & Vector Search**
 - 🔭 Currently building **autonomous agents + production RAG pipelines**
 - 🌱 Learning **agentic workflows, evals, fine-tuning & multimodal LLMs**
+- 🌐 Find all my projects, tech stack, and background at **[anilpaneru.com.np](https://anilpaneru.com.np)**
 - 🌍 Based in **Kathmandu, Nepal** — open to remote roles worldwide
 - 📫 **theanilpaneru@gmail.com** — inbox always open
-- ⚡ Fun fact: I debug prompts more than code these days
-
----
-
-## 🛠️ Tech Stack
-
-<div align="center">
-
-[![Skills](https://skillicons.dev/icons?i=python,fastapi,pytorch,tensorflow,docker,git,linux,vscode,github,postgres,redis&theme=light&perline=11)](https://skillicons.dev)
-
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-</p>
-
-</div>
-
----
-
-## 🚀 What I Do
-
-| | Focus | Details |
-|---|---|---|
-| 🤖 | **AI Agents** | Tool-calling LangChain agents that automate real workflows |
-| 🧠 | **RAG Systems** | Chunk → embed → retrieve → generate, with evals |
-| ⚡ | **LLM Apps** | Chatbots, copilots & tools on OpenAI + open models |
-| 🔧 | **Backend** | FastAPI + Postgres + Redis + Docker + Vector DBs |
 
 ---
 
@@ -109,10 +77,6 @@
 ---
 
 <div align="center">
-
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light&quote=The+best+way+to+predict+the+future+is+to+build+it.&author=AI+Engineer+mode" />
-
-  <br/>
 
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:A855F7,100:6366F1&height=130&section=footer&text=Thanks+for+stopping+by!&fontSize=24&fontColor=ffffff&animation=fadeIn" width="100%"/>
 
